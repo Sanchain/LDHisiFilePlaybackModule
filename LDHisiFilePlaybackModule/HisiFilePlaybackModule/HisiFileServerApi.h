@@ -27,5 +27,11 @@
  */
 + (void)deleteFileWithFileName:(NSString *)fileName;
 
+
+/**
+ * @brief 重载公共服务（新增共性的业务）
+ */
++ (void)reloadPublicService;
+
 @end
 

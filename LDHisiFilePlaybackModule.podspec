@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LDHisiFilePlaybackModule"
-  s.version      = "1.2"
+  s.version      = "1.4"
   s.summary      = "海思回放文件组件: 分支2 azdome_branch2 的个性化开发"
 
   # This description is used to generate tags and improve search results.
