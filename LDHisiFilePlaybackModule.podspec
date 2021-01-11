@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LDHisiFilePlaybackModule"
-  s.version      = "1.0"
+  s.version      = "1.1"
   s.summary      = "LDHisiFilePlaybackModule 海思回放文件组件"
 
   # This description is used to generate tags and improve search results.

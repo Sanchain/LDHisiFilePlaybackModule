@@ -19,5 +19,12 @@
 + (void)getFileListDataWithRequestParams:(NSDictionary *)requestParams
                       completionCallback:(void(^)(NSDictionary *fileListData))completionCallback;
 
+
+/**
+ * @brief 获取文件详情
+ * @param fileName 文件名称
+ */
++ (void)getFileDetailDataWithFileName:(NSString *)fileName;
+
 @end
 
