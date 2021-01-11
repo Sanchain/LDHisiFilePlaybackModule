@@ -22,4 +22,8 @@
     }
 }
 
++ (void)reloadPublicService {
+    
+}
+
 @end

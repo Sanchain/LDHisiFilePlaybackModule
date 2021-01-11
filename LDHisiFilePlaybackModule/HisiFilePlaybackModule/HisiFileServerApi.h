@@ -19,5 +19,12 @@
 + (void)getFileListDataWithRequestParams:(NSDictionary *)requestParams
                       completionCallback:(void(^)(NSDictionary *fileListData))completionCallback;
 
+
+
+/**
+ * @brief 重载公共服务（新增共性的业务）
+ */
++ (void)reloadPublicService;
+
 @end
 
