@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LDHisiFilePlaybackModule"
-  s.version      = "1.0"
-  s.summary      = "LDHisiFilePlaybackModule 海思回放文件组件"
+  s.version      = "1.3"
+  s.summary      = "LDHisiFilePlaybackModule 海思回放文件组件: 中性版"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    LDHisiFilePlaybackModule 海思回放文件组件
+                    LDHisiFilePlaybackModule 海思回放文件组件，中性版
                    DESC
 
   s.homepage     = "https://github.com/Sanchain/LDHisiFilePlaybackModule"
