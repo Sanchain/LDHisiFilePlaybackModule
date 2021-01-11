@@ -19,5 +19,13 @@
 + (void)getFileListDataWithRequestParams:(NSDictionary *)requestParams
                       completionCallback:(void(^)(NSDictionary *fileListData))completionCallback;
 
+
+
+/**
+ * @brief 删除某个回放文件 （分支2 azdome_branch2 的个性化接口）
+ * @param fileName 文件名称
+ */
++ (void)deleteFileWithFileName:(NSString *)fileName;
+
 @end
 
