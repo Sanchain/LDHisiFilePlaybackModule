@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		934AB2BE25B143A700C7A4B4 /* LDHisiFilePlaybackModule.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 934AB2BD25B143A700C7A4B4 /* LDHisiFilePlaybackModule.bundle */; };
 		93621C2C25ABFAA9004F2A17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 93621C2B25ABFAA9004F2A17 /* AppDelegate.m */; };
 		93621C3225ABFAA9004F2A17 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 93621C3125ABFAA9004F2A17 /* ViewController.m */; };
 		93621C3525ABFAA9004F2A17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93621C3325ABFAA9004F2A17 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		934AB2BD25B143A700C7A4B4 /* LDHisiFilePlaybackModule.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = LDHisiFilePlaybackModule.bundle; sourceTree = "<group>"; };
 		93621C2725ABFAA9004F2A17 /* LDHisiFilePlaybackModule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LDHisiFilePlaybackModule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93621C2A25ABFAA9004F2A17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		93621C2B25ABFAA9004F2A17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 		93621C4525AC00BC004F2A17 /* HisiFilePlaybackModule */ = {
 			isa = PBXGroup;
 			children = (
+				934AB2BD25B143A700C7A4B4 /* LDHisiFilePlaybackModule.bundle */,
 				93621C4625AC0104004F2A17 /* HisiFileServerApi.h */,
 				93621C4725AC0104004F2A17 /* HisiFileServerApi.m */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93621C3A25ABFAAC004F2A17 /* LaunchScreen.storyboard in Resources */,
+				934AB2BE25B143A700C7A4B4 /* LDHisiFilePlaybackModule.bundle in Resources */,
 				93621C3725ABFAAC004F2A17 /* Assets.xcassets in Resources */,
 				93621C3525ABFAA9004F2A17 /* Main.storyboard in Resources */,
 			);
